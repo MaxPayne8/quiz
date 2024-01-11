@@ -1,0 +1,86 @@
+export const data = [
+  {
+    question:
+      "Which of the following is used in React.js to increase performance? ",
+    option1: [1, "Virtual Dom"],
+    option2: [2, "Real Dom"],
+    option3: [3, "Both 1 and 2"],
+    option4: [4, "None of the above"],
+    ans: 1,
+  },
+  {
+    question: "What is ReactJS?",
+    option1: [2, "User interface Framework"],
+    option2: [2, "Server side Framework"],
+    option3: [3, "Client side Framework"],
+    option4: [4, "Both 1 and 3"],
+    ans: 4,
+  },
+  {
+    question:
+      "Identify the one which is used to pass data to components from outside",
+    option1: [1, "Render with arguments"],
+    option2: [2, "setState"],
+    option3: [3, "props"],
+    option4: [4, "propTypes"],
+    ans: 3,
+  },
+  {
+    question: "Who created React.js?",
+    option1: [1, "Jordan Walke"],
+    option2: [2, "Sundar Pichai"],
+    option3: [3, "Bill Gates"],
+    option4: [4, "Elon Musk"],
+    ans: 1,
+  },
+  {
+    question: "In which language is React.js written?",
+    option1: [1, "Python"],
+    option2: [2, "Javascript"],
+    option3: [3, "Php"],
+    option4: [4, "Java"],
+    ans: 2,
+  },
+  {
+    question: "What is Babel?",
+    option1: [1, "Javascript Compiler"],
+    option2: [2, "Javascript interpreter"],
+    option3: [3, "Javascript transpiler"],
+    option4: [4, "Javascript files bundler"],
+    ans: 1,
+  },
+  {
+    question: "In which language is React.js written?",
+    option1: [1, "Python"],
+    option2: [2, "Javascript"],
+    option3: [3, "Php"],
+    option4: [4, "Java"],
+    ans: 2,
+  },
+  {
+    question:
+      "Which of the following port is the default where webpack-dev-server runs?",
+    option1: [1, "3000"],
+    option2: [2, "3036"],
+    option3: [3, "8000"],
+    option4: [4, "8100"],
+    ans: 1,
+  },
+  {
+    question: "A state in React.js is also known as?",
+    option1: [1, "External storage of the component"],
+    option2: [2, "The internal storage of the component"],
+    option3: [3, "Permanent storage"],
+    option4: [4, "None of the above"],
+    ans: 2,
+  },
+  {
+    question:
+      " Among The following options, choose the one which helps react for keeping their data uni-directional?",
+    option1: [1, "DOM"],
+    option2: [2, "Flux"],
+    option3: [3, "JSX"],
+    option4: [4, "Redux"],
+    ans: 2,
+  },
+];
